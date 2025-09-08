@@ -12,6 +12,8 @@ What really matters to me is building apps that are not just functional, but als
 * ✉️  You can contact me at [bun.stefania@gmail.com](mailto:bun.stefania@gmail.com)
 * ⚡  Always open to new opportunities, challenges, and collaborations that bring tech closer to people.
 
+### Skills
+
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>

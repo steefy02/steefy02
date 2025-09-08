@@ -10,7 +10,7 @@ What really matters to me is building apps that are not just functional, but als
 
 * 🌍  I'm based in Romania, Cluj-Napoca
 * ✉️  You can contact me at [bun.stefania@gmail.com](mailto:bun.stefania@gmail.com)
-* 💬  Ask me about Always open to new opportunities, challenges, and collaborations that bring tech closer to people.
+* ⚡  Always open to new opportunities, challenges, and collaborations that bring tech closer to people.
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
